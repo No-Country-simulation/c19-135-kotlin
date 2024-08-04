@@ -6,7 +6,7 @@
 Guide es un MVP de una aplicación móvil nativa que nace de la necesidad de abordar la problemática de sentirse desorientado al buscar empleo o avanzar en la carrera profesional. Esta aplicación ofrece una amplia variedad de mentores que brindan asesorías personalizadas, que pueden ser de 1 hora, 5 horas, 10 horas o por mes, según las necesidades de quien la contrate.
 En el prototipo actual, podrás realizar el recorrido principal del usuario: entrar en la página de inicio, elegir un mentor, ver su perfil y agendar una asesoría.
 Este proyecto está en sus primeros pasos, ya que fue desarrollado en el contexto de una simulación laboral con una duración de 4 semanas en [No Country](https://www.nocountry.tech/simulacion-laboral).
-El proceso de investigación fue bastante detallado y personalizado, utilizando la metodología de Design Thinking. Realizamos una investigación de mercado, análisis de la competencia y encuestas a usuarios para garantizar un producto relevante y efectivo.
+El proceso de investigación fue bastante detallado y personalizado, utilizando la metodología de Design Thinking. Realice una investigación de mercado, análisis de la competencia y encuestas a usuarios para garantizar un producto relevante y efectivo.
 
 ### Prototipo ✌🏽 
 [link](https://www.figma.com/proto/sEwPuTXQtqFTPSx5elEsG7/Networking-app?node-id=437-1639&t=5RJz5UqFeilBxFKk-1&scaling=min-zoom&content-scaling=fixed&page-id=418%3A6399&starting-point-node-id=418%3A6400)
