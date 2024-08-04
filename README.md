@@ -9,7 +9,7 @@ Este proyecto está en sus primeros pasos, ya que fue desarrollado en el context
 El proceso de investigación fue bastante detallado y personalizado, utilizando la metodología de Design Thinking. Realice una investigación de mercado, análisis de la competencia y encuestas a usuarios para garantizar un producto relevante y efectivo.
 
 ### Prototipo ✌🏽 
-[link](https://www.figma.com/design/dwNncA2nTCG0VlSck8excE/Guide?node-id=1-34098&t=4wZFF25bKVkxCMO0-1)
+[link](https://www.figma.com/proto/dwNncA2nTCG0VlSck8excE/Guide?node-id=1-34098&t=ewbRecMEYPIZDlVf-1&scaling=min-zoom&content-scaling=fixed&page-id=1%3A19607)
 
 
 ### Contacto
