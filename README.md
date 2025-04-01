@@ -1,6 +1,6 @@
 <a href="https://ibb.co/k6nGJpS"><img src="https://i.ibb.co/2Y2FSwk/Presentaci-n.jpg" alt="Presentaci-n" border="0"></a>
 <h1> Encuentra tu mentor ideal con Guide <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2> By Sofia Aguilar 🎨 Diseñadora UX 🌈</h2>
+<h2> By Sofia Aguilar 🎨🌈</h2>
 
 ### ¿Como surge?
 Guide es un MVP de una aplicación móvil nativa que nace de la necesidad de abordar la problemática de sentirse desorientado al buscar empleo o avanzar en la carrera profesional. Esta aplicación ofrece una amplia variedad de mentores que brindan asesorías personalizadas, que pueden ser de 1 hora, 5 horas, 10 horas o por mes, según las necesidades de quien la contrate.
